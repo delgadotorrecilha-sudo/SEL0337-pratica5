@@ -1,13 +1,6 @@
 #!/usr/bin/python3
 """
 Pratica 5 - Checkpoint 1 - SEL0337
-Aplicacao: pisca um LED ligado ao GPIO 18 da Raspberry Pi (0,2 s ligado / 0,2 s desligado).
-O programa e iniciado automaticamente no boot pelo systemd (unit file: blink_py.service).
-
-Funcionamento:
-- Usa a biblioteca gpiozero (ja instalada no Raspberry Pi OS) para controlar o pino.
-- Trata o sinal SIGTERM, que o systemd envia ao executar 'systemctl stop':
-  o LED e apagado e o programa encerra de forma limpa.
 """
 import signal
 import sys
