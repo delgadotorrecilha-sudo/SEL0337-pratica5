@@ -1,0 +1,17 @@
+commit e944d7ff48eef1fdde7abdad821df3fe10c2ea1a
+Author: delgadotorrecilha-sudo <delgadotorrecilha@usp.br>
+Date:   Mon Nov 16 10:35:38 2026 -0300
+
+    Adiciona ExecStop e unit file do systemd
+
+commit 246f67386018b38cd70a3f7e321e57ba07d549df
+Author: delgadotorrecilha-sudo <delgadotorrecilha@usp.br>
+Date:   Mon Nov 16 10:35:08 2026 -0300
+
+    Adiciona script Python de blink do LED
+
+commit 79c2533918bbc1116be4b70594f4ebbd170faf17
+Author: delgadotorrecilha-sudo <delgadotorrecilha@usp.br>
+Date:   Sun Nov 15 11:09:15 2026 -0300
+
+    Initial commit
